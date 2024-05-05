@@ -1,0 +1,575 @@
+[05maj2024 00:00:04.260] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c66fa03[id=<null>,name=madonnussy,properties={},legacy=false] (/213.134.177.176:36425) lost connection: Disconnected
+[05maj2024 00:00:37.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xvss00 lost connection: Disconnected
+[05maj2024 00:00:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xvss00 left the game
+[05maj2024 00:00:53.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xvss00[/83.28.208.42:33157] logged in with entity id 1312 at (-222.55981635773122, 63.0, 328.9915063928639)
+[05maj2024 00:00:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xvss00 joined the game
+[05maj2024 00:00:53.722] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: xvss00
+[05maj2024 00:00:54.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to -362.500000, 16.500000, 32.500000]
+[05maj2024 00:01:17.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zenxevyy moved too quickly! 9.339719216078436,3.2987031463477763,-3.345395875972116
+[05maj2024 00:01:17.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[05maj2024 00:01:30.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! -0.19734110996375875,0.0,-10.259026672090158
+[05maj2024 00:01:34.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: madonnussy[/213.134.177.176:36465] logged in with entity id 1604 at (128.63180058852603, 63.0, 57.85739244253665)
+[05maj2024 00:01:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy joined the game
+[05maj2024 00:01:34.733] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: madonnussy
+[05maj2024 00:01:40.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7804ms or 156 ticks behind
+[05maj2024 00:01:52.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to -269.500000, 16.500000, 303.500000]
+[05maj2024 00:02:07.312] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39a40fa7[id=<null>,name=Kamykowyy,properties={},legacy=false] (/31.0.126.233:29753) lost connection: Disconnected
+[05maj2024 00:02:10.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ThePolishCat_221: Location (-272.125, 61.96442490816116, 352.7899343967438) too far away from hit block BlockPos{x=-274, y=61, z=352}.
+[05maj2024 00:02:14.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[05maj2024 00:02:17.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamykowyy[/31.0.126.233:29843] logged in with entity id 2272 at (75.00135555851995, 16.0, 39.33079123395254)
+[05maj2024 00:02:17.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy joined the game
+[05maj2024 00:02:17.924] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Kamykowyy
+[05maj2024 00:02:31.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[05maj2024 00:02:58.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to 113.500000, 63.500000, 35.500000]
+[05maj2024 00:03:02.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to sleeplessnigga]
+[05maj2024 00:03:42.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:04:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to 113.500000, 63.500000, 35.500000]
+[05maj2024 00:04:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to zenxevyy]
+[05maj2024 00:05:54.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5096ms or 101 ticks behind
+[05maj2024 00:06:16.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6957ms or 139 ticks behind
+[05maj2024 00:06:47.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to 113.500000, 63.500000, 35.500000]
+[05maj2024 00:06:47.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 535.0416872087887,-5.5,17.072866489013684
+[05maj2024 00:06:54.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga lost connection: Disconnected
+[05maj2024 00:06:54.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga left the game
+[05maj2024 00:06:54.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xvss00 lost connection: Disconnected
+[05maj2024 00:06:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xvss00 left the game
+[05maj2024 00:06:56.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[05maj2024 00:07:16.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Set the time to 1000]
+[05maj2024 00:07:55.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05maj2024 00:08:20.047] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05maj2024 00:08:20.050] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05maj2024 00:08:20.065] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05maj2024 00:08:21.203] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-9, 18], pos: MutableBlockPos{x=-138, y=68, z=288}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:08:21.214] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-9, 18], pos: MutableBlockPos{x=-130, y=46, z=290}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:08:21.215] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-9, 18], pos: MutableBlockPos{x=-133, y=46, z=288}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:08:25.412] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-8, 16], pos: MutableBlockPos{x=-127, y=86, z=264}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:08:25.414] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-9, 17], pos: MutableBlockPos{x=-137, y=85, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:08:25.414] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-8, 16], pos: MutableBlockPos{x=-128, y=86, z=266}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:08:25.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14972ms or 299 ticks behind
+[05maj2024 00:08:39.636] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-5, 17], pos: MutableBlockPos{x=-80, y=82, z=279}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:08:39.641] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-5, 17], pos: MutableBlockPos{x=-76, y=83, z=283}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:08:39.644] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-5, 17], pos: MutableBlockPos{x=-80, y=84, z=286}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:08:43.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy was slain by Martin the Feeble
+[05maj2024 00:08:46.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5526ms or 110 ticks behind
+[05maj2024 00:09:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:09:12.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to 113.500000, 63.500000, 35.500000]
+[05maj2024 00:09:24.509] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, 20], pos: MutableBlockPos{x=200, y=59, z=320}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:09:44.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sleeplessnigga[/83.31.158.36:52756] logged in with entity id 6531 at (107.30000001192093, 63.0, 41.75389742919881)
+[05maj2024 00:09:44.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga joined the game
+[05maj2024 00:09:44.534] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: sleeplessnigga
+[05maj2024 00:09:48.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[05maj2024 00:10:24.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamykowyy lost connection: Disconnected
+[05maj2024 00:10:24.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy left the game
+[05maj2024 00:10:28.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 588.1644597286969,-55.67647087614428,-98.88418331760423
+[05maj2024 00:10:30.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThePolishCat_221 moved too quickly! 587.8489332350678,-55.67647087614428,-98.83163351603302
+[05maj2024 00:10:41.144] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-9, 15], pos: MutableBlockPos{x=-144, y=83, z=242}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:10:42.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39088ms or 781 ticks behind
+[05maj2024 00:10:46.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamykowyy[/31.0.126.233:29765] logged in with entity id 6978 at (57.685677382383574, 58.0, 77.90326133382833)
+[05maj2024 00:10:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy joined the game
+[05maj2024 00:10:47.277] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Kamykowyy
+[05maj2024 00:11:05.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8544ms or 170 ticks behind
+[05maj2024 00:11:23.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to 495.500000, 50.500000, 327.500000]
+[05maj2024 00:11:25.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[05maj2024 00:11:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to zenxevyy]
+[05maj2024 00:11:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zenxevyy> xaero-waypoint:maze:M:1743:7:-231:12:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
+[05maj2024 00:11:32.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to 113.500000, 63.500000, 35.500000]
+[05maj2024 00:11:32.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 565.81442437762,-2.5,21.069331298849907
+[05maj2024 00:11:33.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:11:48.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [Those Were the Days]
+[05maj2024 00:11:48.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7750ms or 155 ticks behind
+[05maj2024 00:12:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to madonnussy]
+[05maj2024 00:12:18.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05maj2024 00:12:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to zenxevyy]
+[05maj2024 00:12:36.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+[05maj2024 00:12:39.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to 113.500000, 63.500000, 35.500000]
+[05maj2024 00:12:39.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 555.2941780056414,-0.5,12.566130500404576
+[05maj2024 00:12:56.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4279ms or 85 ticks behind
+[05maj2024 00:13:02.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 00:15:25.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Gave 1 [Diamond Sword] to sleeplessnigga]
+[05maj2024 00:15:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Creative Mode]
+[05maj2024 00:16:49.124] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=806, y=44, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.126] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=808, y=44, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.129] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=809, y=44, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.129] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=810, y=45, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.130] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=810, y=44, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.139] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=811, y=46, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.143] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=811, y=45, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.146] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=811, y=44, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.153] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=812, y=46, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.154] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=812, y=45, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.155] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=812, y=44, z=448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.156] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=808, y=44, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.159] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=809, y=45, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.159] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=809, y=44, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.159] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=810, y=45, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.160] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=810, y=44, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.160] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=811, y=46, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.160] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=811, y=45, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.160] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=811, y=44, z=449}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.161] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=809, y=45, z=450}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.161] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [50, 28], pos: MutableBlockPos{x=809, y=44, z=450}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:16:49.602] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [51, 20], pos: MutableBlockPos{x=817, y=71, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:16:49.605] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [51, 21], pos: MutableBlockPos{x=817, y=72, z=338}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:16:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Cutting a New One]
+[05maj2024 00:17:29.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Michael Morbius the Non-Suspicious'/9743, l='ServerLevel[world]', x=580.22, y=56.20, z=386.89] died: Michael Morbius the Non-Suspicious was slain by Kamykowyy
+[05maj2024 00:17:30.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [Into Fire]
+[05maj2024 00:18:02.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has completed the challenge [He Wasn't So Strong]
+[05maj2024 00:18:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [Epic!]
+[05maj2024 00:18:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:18:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Creative Mode]
+[05maj2024 00:18:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has reached the goal [Time To Even The Scales]
+[05maj2024 00:19:00.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has reached the goal [Time To Even The Scales]
+[05maj2024 00:19:01.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:19:15.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zenxevyy> xaero-waypoint:lich:L:540:6:251:7:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
+[05maj2024 00:19:30.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/28, l='ServerLevel[world]', x=-2.78, y=172.25, z=-133.65] died: Honeyed Archer suffocated in a wall
+[05maj2024 00:19:48.818] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [51, 39], pos: MutableBlockPos{x=831, y=86, z=624}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:19:51.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 00:19:54.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to Kamykowyy]
+[05maj2024 00:20:00.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to zenxevyy]
+[05maj2024 00:20:01.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[05maj2024 00:20:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to 113.500000, 63.500000, 35.500000]
+[05maj2024 00:20:02.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 551.0018054399113,-2.5,18.64916858058978
+[05maj2024 00:20:15.401] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [54, 20], pos: MutableBlockPos{x=866, y=83, z=324}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:20:17.278] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [52, 13], pos: MutableBlockPos{x=845, y=94, z=209}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:20:19.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[05maj2024 00:20:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 00:20:37.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[05maj2024 00:20:47.309] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 10], pos: MutableBlockPos{x=848, y=52, z=164}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:47.854] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 11], pos: MutableBlockPos{x=857, y=32, z=176}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:20:47.883] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 11], pos: MutableBlockPos{x=853, y=32, z=178}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:20:47.887] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 11], pos: MutableBlockPos{x=856, y=32, z=180}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:20:47.889] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [54, 9], pos: MutableBlockPos{x=865, y=68, z=155}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:47.894] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [54, 10], pos: MutableBlockPos{x=864, y=68, z=161}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:47.912] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [54, 9], pos: MutableBlockPos{x=866, y=68, z=158}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:47.933] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [54, 9], pos: MutableBlockPos{x=864, y=67, z=154}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:48.001] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 11], pos: MutableBlockPos{x=858, y=32, z=177}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:48.089] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 11], pos: MutableBlockPos{x=857, y=31, z=176}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:48.103] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 11], pos: MutableBlockPos{x=853, y=32, z=176}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:48.105] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 11], pos: MutableBlockPos{x=856, y=32, z=177}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:20:50.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 00:20:57.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4437ms or 88 ticks behind
+[05maj2024 00:21:09.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> xaero-waypoint:skibidi ^col^3:S:80:127:114:4:false:0:Internal-dim%aether$the-aether-waypoints
+[05maj2024 00:21:54.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:21:58.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 0.0,-11.842011517166327,0.0
+[05maj2024 00:21:59.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[05maj2024 00:22:01.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga was kicked for floating too long!
+[05maj2024 00:22:01.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga lost connection: Flying is not enabled on this server
+[05maj2024 00:22:01.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga left the game
+[05maj2024 00:22:02.256] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05maj2024 00:22:13.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamykowyy> :fliing
+[05maj2024 00:22:13.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sleeplessnigga[/83.31.158.36:52805] logged in with entity id 13251 at (161.19730249642996, 169.52646985136155, 128.24792216326708)
+[05maj2024 00:22:13.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga joined the game
+[05maj2024 00:22:14.033] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: sleeplessnigga
+[05maj2024 00:22:16.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Set the time to 1000]
+[05maj2024 00:22:16.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 0.0,-10.806526110009003,0.0
+[05maj2024 00:22:16.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[05maj2024 00:22:20.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 00:22:27.282] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [54, 5], pos: MutableBlockPos{x=865, y=90, z=89}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/fire]
+[05maj2024 00:22:59.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Set own game mode to Creative Mode]
+[05maj2024 00:23:34.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Set own game mode to Survival Mode]
+[05maj2024 00:24:04.528] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:dark_forest took 330 ms
+[05maj2024 00:24:28.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -1009.500000, 83.000000, -176.500000]
+[05maj2024 00:24:28.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
+[05maj2024 00:24:28.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! -0.023341898805881556,1.6797521111363949,-10.014310351930646
+[05maj2024 00:24:28.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: madonnussy moved too quickly! -2.679334614323693,-4.307480045628218,8.73982508460199
+[05maj2024 00:24:54.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Baby Food]
+[05maj2024 00:24:56.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamykowyy lost connection: Disconnected
+[05maj2024 00:24:56.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy left the game
+[05maj2024 00:24:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Don't Count Your Moas...]
+[05maj2024 00:25:24.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -417.500000, 67.500000, 30.500000]
+[05maj2024 00:25:41.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 111.500000, 63.500000, 38.500000]
+[05maj2024 00:25:41.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga was slain by Valkyrie
+[05maj2024 00:25:43.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has reached the goal [Worthy Equipment]
+[05maj2024 00:25:49.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 00:25:51.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zenxevyy moved too quickly! 587.155891524182,-55.92159999847412,-98.03929780161563
+[05maj2024 00:25:55.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 1048.500000, 5.500000, -54.500000]
+[05maj2024 00:26:02.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 689.500000, 8.500000, -103.500000]
+[05maj2024 00:26:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -8039.500000, 63.500000, -1359.500000]
+[05maj2024 00:26:11.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[05maj2024 00:26:59.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -1009.500000, 83.000000, -176.500000]
+[05maj2024 00:27:03.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamykowyy[/31.0.126.233:29731] logged in with entity id 16436 at (538.5314786987905, 26.373738742948348, 324.4864600742737)
+[05maj2024 00:27:03.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy joined the game
+[05maj2024 00:27:03.551] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Kamykowyy
+[05maj2024 00:27:04.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported Kamykowyy to madonnussy]
+[05maj2024 00:27:10.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy burned to death
+[05maj2024 00:27:23.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to madonnussy]
+[05maj2024 00:27:31.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Exotic Hardware]
+[05maj2024 00:28:03.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Cold as Ice]
+[05maj2024 00:28:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to sleeplessnigga]
+[05maj2024 00:29:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Spectator Mode]
+[05maj2024 00:29:49.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:30:11.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Spectator Mode]
+[05maj2024 00:30:21.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:31:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:32:18.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenxevyy was slain by Valkyrie
+[05maj2024 00:32:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [I Found It Underground]
+[05maj2024 00:32:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has made the advancement [Who is Cutting Onions?]
+[05maj2024 00:32:34.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 81.500000, 116.500000, 117.500000]
+[05maj2024 00:33:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 was slain by Valkyrie
+[05maj2024 00:33:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 00:33:30.228] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 35], pos: MutableBlockPos{x=288, y=79, z=569}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:30.228] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 35], pos: MutableBlockPos{x=288, y=78, z=569}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:30.228] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 35], pos: MutableBlockPos{x=289, y=78, z=569}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:40.956] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=274, y=102, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.956] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=274, y=101, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.959] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=102, z=542}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.959] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=101, z=542}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.960] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=100, z=542}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.960] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=102, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.960] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=101, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.960] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=100, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.960] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=273, y=102, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.960] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=273, y=101, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.960] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=273, y=100, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=102, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=101, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=100, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=102, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=101, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=100, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=102, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.961] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=101, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=100, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=102, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=101, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=100, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=274, y=102, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=274, y=101, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=274, y=100, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.962] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=100, z=546}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=100, z=546}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=100, z=547}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=100, z=547}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=102, z=548}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=101, z=548}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=100, z=548}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=102, z=548}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.963] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=104, z=551}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.964] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=103, z=551}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.964] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=104, z=552}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.964] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=103, z=552}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=104, z=553}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=103, z=553}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=275, y=103, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=276, y=101, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=274, y=102, z=540}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=102, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=272, y=101, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=273, y=102, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.965] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 33], pos: MutableBlockPos{x=273, y=101, z=543}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.966] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=102, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.966] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=101, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.966] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=102, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.966] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=101, z=544}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.966] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=102, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.966] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=272, y=101, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.966] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=102, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.967] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=273, y=101, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.967] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=274, y=102, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:40.967] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, 34], pos: MutableBlockPos{x=274, y=101, z=545}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[05maj2024 00:33:41.357] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=254, y=54, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.357] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=254, y=53, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.358] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=254, y=52, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.358] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=255, y=54, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.358] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=255, y=53, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.358] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=255, y=52, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.359] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=256, y=54, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.359] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=256, y=52, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.360] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=257, y=54, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.362] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=257, y=52, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.362] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=258, y=54, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.363] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=258, y=53, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.363] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=258, y=52, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.364] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=256, y=54, z=353}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.364] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=256, y=53, z=353}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.364] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 22], pos: MutableBlockPos{x=256, y=52, z=353}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.364] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=255, y=54, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.365] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 22], pos: MutableBlockPos{x=255, y=53, z=352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:33:41.527] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, 36], pos: MutableBlockPos{x=253, y=84, z=577}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[05maj2024 00:34:33.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Madam Chelicia'/18927, l='ServerLevel[world]', x=445.70, y=56.00, z=353.70] died: Madam Chelicia was slain by Kamykowyy
+[05maj2024 00:35:26.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenxevyy was zapped by Valkyrie Queen's Thunder Crystal
+[05maj2024 00:35:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 56.500000, 107.500000, 110.500000]
+[05maj2024 00:35:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to sleeplessnigga]
+[05maj2024 00:36:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga was frozen to death by zenxevyy using [Marissa's Violent FutaCockGf of the Frostlands]
+[05maj2024 00:36:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to zenxevyy]
+[05maj2024 00:36:34.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [Hostile Paradise]
+[05maj2024 00:36:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:36:40.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenxevyy was slain by Valkyrie Queen
+[05maj2024 00:36:42.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [I Found It Underground]
+[05maj2024 00:36:51.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 76.500000, 106.500000, 115.500000]
+[05maj2024 00:36:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy was slain by Valkyrie Queen
+[05maj2024 00:36:57.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Who is Cutting Onions?]
+[05maj2024 00:36:57.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [The Path to Better Gear]
+[05maj2024 00:37:02.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to sleeplessnigga]
+[05maj2024 00:37:10.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [Who is Cutting Onions?]
+[05maj2024 00:37:20.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga was zapped by Valkyrie Queen's Thunder Crystal
+[05maj2024 00:37:22.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has reached the goal [Worthy Equipment]
+[05maj2024 00:37:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to zenxevyy]
+[05maj2024 00:37:45.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has reached the goal [Dethroned]
+[05maj2024 00:37:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has reached the goal [Dethroned]
+[05maj2024 00:37:45.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenxevyy has reached the goal [Dethroned]
+[05maj2024 00:37:45.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has reached the goal [Dethroned]
+[05maj2024 00:37:45.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has reached the goal [Dethroned]
+[05maj2024 00:39:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has reached the goal [Earning your Wings]
+[05maj2024 00:39:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has made the advancement [Exotic Hardware]
+[05maj2024 00:39:53.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has completed the challenge [Titan-Forged]
+[05maj2024 00:39:53.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has reached the goal [Earning your Wings]
+[05maj2024 00:39:54.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Battle Hardened]
+[05maj2024 00:40:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Spectator Mode]
+[05maj2024 00:40:49.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:41:30.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Spectator Mode]
+[05maj2024 00:41:50.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:43:34.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga was kicked for floating too long!
+[05maj2024 00:43:34.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga lost connection: Flying is not enabled on this server
+[05maj2024 00:43:34.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga left the game
+[05maj2024 00:43:45.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sleeplessnigga[/83.31.158.36:52842] logged in with entity id 21220 at (124.2521058210973, 163.46476221959227, 107.06319895020076)
+[05maj2024 00:43:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga joined the game
+[05maj2024 00:43:45.719] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: sleeplessnigga
+[05maj2024 00:43:50.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga lost connection: Disconnected
+[05maj2024 00:43:50.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga left the game
+[05maj2024 00:43:58.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sleeplessnigga[/83.31.158.36:52850] logged in with entity id 21354 at (124.2521058210973, 76.71573596348937, 107.06319895020076)
+[05maj2024 00:43:58.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga joined the game
+[05maj2024 00:43:58.357] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: sleeplessnigga
+[05maj2024 00:44:00.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: madonnussy was kicked for floating too long!
+[05maj2024 00:44:00.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: madonnussy lost connection: Flying is not enabled on this server
+[05maj2024 00:44:00.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy left the game
+[05maj2024 00:44:00.261] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05maj2024 00:44:00.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga fell from a high place
+[05maj2024 00:44:06.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to 124.500000, 65.500000, 107.500000]
+[05maj2024 00:44:18.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: madonnussy[/213.134.177.176:36409] logged in with entity id 21725 at (69.62453585609158, 166.59016863897656, 101.83234684342209)
+[05maj2024 00:44:18.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy joined the game
+[05maj2024 00:44:19.093] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: madonnussy
+[05maj2024 00:44:19.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -417.500000, 67.500000, 30.500000]
+[05maj2024 00:44:23.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy fell from a high place
+[05maj2024 00:44:30.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported sleeplessnigga to Kamykowyy]
+[05maj2024 00:46:11.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Creative Mode]
+[05maj2024 00:47:51.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:48:00.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 00:49:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Creative Mode]
+[05maj2024 00:49:35.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 00:50:35.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 00:50:35.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 3.2172268591154705,21.186831221255325,-64.54144883414136
+[05maj2024 00:51:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:55:00.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 00:55:34.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: madonnussy was kicked for floating too long!
+[05maj2024 00:55:35.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: madonnussy lost connection: Flying is not enabled on this server
+[05maj2024 00:55:35.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy left the game
+[05maj2024 00:56:07.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: madonnussy[/213.134.177.176:36426] logged in with entity id 27366 at (273.9524376023227, 163.46476221959227, 276.31357615972547)
+[05maj2024 00:56:08.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy joined the game
+[05maj2024 00:56:08.082] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: madonnussy
+[05maj2024 00:56:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:56:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy fell from a high place
+[05maj2024 00:56:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported madonnussy to Kamykowyy]
+[05maj2024 00:56:25.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy has made the advancement [Exotic Hardware]
+[05maj2024 00:57:47.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mister Tabby the Supreme'/28059, l='ServerLevel[world]', x=-432.93, y=66.00, z=20.59] died: Mister Tabby the Supreme was slain by zenxevyy using [Marissa's Violent FutaCockGf of the Frostlands]
+[05maj2024 00:58:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Spectator Mode]
+[05maj2024 00:59:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 01:00:04.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 111.500000, 63.500000, 38.500000]
+[05maj2024 01:00:07.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported Kamykowyy to madonnussy]
+[05maj2024 01:00:08.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamykowyy was kicked for floating too long!
+[05maj2024 01:00:08.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamykowyy lost connection: Flying is not enabled on this server
+[05maj2024 01:00:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy left the game
+[05maj2024 01:00:08.233] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05maj2024 01:00:22.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamykowyy[/31.0.126.233:29778] logged in with entity id 30191 at (249.28706985568152, 68.0, 260.72640212419725)
+[05maj2024 01:00:22.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy joined the game
+[05maj2024 01:00:22.754] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Kamykowyy
+[05maj2024 01:00:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy fell from a high place
+[05maj2024 01:00:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported Kamykowyy to madonnussy]
+[05maj2024 01:01:15.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -269.500000, 16.500000, 306.500000]
+[05maj2024 01:01:25.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -417.500000, 67.500000, 30.500000]
+[05maj2024 01:02:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [To Infinity and Beyond!]
+[05maj2024 01:02:37.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: madonnussy lost connection: Disconnected
+[05maj2024 01:02:37.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy left the game
+[05maj2024 01:02:38.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThePolishCat_221 moved too quickly! -9.641789333355234,2.634605559127408,0.5907475084806038
+[05maj2024 01:02:38.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
+[05maj2024 01:02:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 01:02:59.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: madonnussy[/213.134.177.176:36433] logged in with entity id 31690 at (324.08287963683136, 234.30097374389678, 352.2296552868396)
+[05maj2024 01:02:59.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy joined the game
+[05maj2024 01:02:59.585] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: madonnussy
+[05maj2024 01:03:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:05:08.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to ThePolishCat_221]
+[05maj2024 01:05:08.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! 11.700985697650253,8.590730534428403,10.056904716598183
+[05maj2024 01:06:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:06:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has made the advancement [Don't Count Your Moas...]
+[05maj2024 01:06:16.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 01:07:27.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:08:59.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy burned to death
+[05maj2024 01:09:08.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:09:10.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Creative Mode]
+[05maj2024 01:09:22.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy was incinerated by Sun Spirit
+[05maj2024 01:09:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:09:39.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set ThePolishCat_221's game mode to Creative Mode]
+[05maj2024 01:10:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 01:11:33.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy was slain by Fire Minion
+[05maj2024 01:11:44.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:13:29.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Set own game mode to Survival Mode]
+[05maj2024 01:13:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy was incinerated by Sun Spirit's Fire Crystal
+[05maj2024 01:13:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 was slain by Fire Minion
+[05maj2024 01:13:47.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:13:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 01:13:58.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy was incinerated by Sun Spirit's Fire Crystal
+[05maj2024 01:14:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:14:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy was incinerated by Sun Spirit's Fire Crystal
+[05maj2024 01:14:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:14:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy was incinerated by Sun Spirit
+[05maj2024 01:14:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 was incinerated by Sun Spirit
+[05maj2024 01:15:01.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 01:15:04.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has reached the goal [Extinguished]
+[05maj2024 01:15:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has reached the goal [Extinguished]
+[05maj2024 01:15:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has reached the goal [Extinguished]
+[05maj2024 01:15:33.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to Kamykowyy]
+[05maj2024 01:16:11.094] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[05maj2024 01:16:13.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has reached the goal [Fireproof]
+[05maj2024 01:16:51.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has reached the goal [Fireproof]
+[05maj2024 01:17:16.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 was slain by Kamykowyy using [Chelicia's Intricate Wrought Iron Longsword of Slaying]
+[05maj2024 01:17:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Isn't It Iron Pick]
+[05maj2024 01:17:35.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy was killed
+[05maj2024 01:17:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Killed Kamykowyy]
+[05maj2024 01:17:37.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 01:17:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Made zenxevyy no longer a server operator]
+[05maj2024 01:17:52.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [Tools of War]
+[05maj2024 01:18:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to sleeplessnigga]
+[05maj2024 01:18:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has reached the goal [Time To Even The Scales]
+[05maj2024 01:18:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Creative Mode]
+[05maj2024 01:19:06.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> knowlege of all ages 2
+[05maj2024 01:19:18.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenxevyy was killed
+[05maj2024 01:19:18.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Killed zenxevyy]
+[05maj2024 01:19:33.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Made zenxevyy a server operator]
+[05maj2024 01:19:51.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -417.500000, 67.500000, 30.500000]
+[05maj2024 01:20:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 01:20:10.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Creative Mode]
+[05maj2024 01:20:16.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Applied enchantment Knowledge of the Ages II to ThePolishCat_221's item]
+[05maj2024 01:20:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [madonnussy: Teleported madonnussy to zenxevyy]
+[05maj2024 01:20:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has reached the goal [Fireproof]
+[05maj2024 01:20:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Applied enchantment Miner's Fervor V to ThePolishCat_221's item]
+[05maj2024 01:21:12.984] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element aether:bronze_dungeon took 8 ms
+[05maj2024 01:21:15.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Set own game mode to Creative Mode]
+[05maj2024 01:21:48.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Applied enchantment Sharpness IV to Kamykowyy's item]
+[05maj2024 01:21:59.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: madonnussy lost connection: Disconnected
+[05maj2024 01:21:59.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: madonnussy left the game
+[05maj2024 01:22:00.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Set own game mode to Survival Mode]
+[05maj2024 01:22:13.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Set own game mode to Survival Mode]
+[05maj2024 01:22:56.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to sleeplessnigga]
+[05maj2024 01:24:40.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to Kamykowyy]
+[05maj2024 01:24:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 01:25:59.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has reached the goal [Like a Bossaru!]
+[05maj2024 01:25:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has reached the goal [Like a Bossaru!]
+[05maj2024 01:25:59.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has reached the goal [Like a Bossaru!]
+[05maj2024 01:26:08.007] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[05maj2024 01:26:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga has made the advancement [Challenger to the Throne]
+[05maj2024 01:26:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to 111.500000, 63.500000, 38.500000]
+[05maj2024 01:27:29.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [Challenger to the Throne]
+[05maj2024 01:27:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has made the advancement [Challenger to the Throne]
+[05maj2024 01:29:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -417.500000, 67.500000, 30.500000]
+[05maj2024 01:30:33.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to zenxevyy]
+[05maj2024 01:30:38.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> harro
+[05maj2024 01:30:54.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 was slain by Kamykowyy
+[05maj2024 01:31:00.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy was killed
+[05maj2024 01:31:00.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Killed Kamykowyy]
+[05maj2024 01:31:07.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Teleported ThePolishCat_221 to sleeplessnigga]
+[05maj2024 01:31:22.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 was killed
+[05maj2024 01:31:22.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Killed ThePolishCat_221]
+[05maj2024 01:31:26.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamykowyy lost connection: Timed out
+[05maj2024 01:31:26.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy left the game
+[05maj2024 01:31:39.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamykowyy[/31.0.126.233:29726] logged in with entity id 42738 at (7.5, 112.0, -4.5)
+[05maj2024 01:31:39.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy joined the game
+[05maj2024 01:31:39.379] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Kamykowyy
+[05maj2024 01:31:49.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> ./locate biome ..
+[05maj2024 01:31:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Set own game mode to Creative Mode]
+[05maj2024 01:31:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to 113.500000, 63.500000, 35.500000]
+[05maj2024 01:31:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> ./tp .. .. ..
+[05maj2024 01:32:06.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to 672.500000, 48.500000, 880.500000]
+[05maj2024 01:32:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has reached the goal [Earning your Wings]
+[05maj2024 01:32:43.559] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:mangrove_swamp took 1402 ms
+[05maj2024 01:32:43.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThePolishCat_221 moved too quickly! 6.08853877190495,3.564540875082116,7.841133692286121
+[05maj2024 01:32:59.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zenxevyy: Teleported zenxevyy to -1999.500000, 66.000000, -809.500000]
+[05maj2024 01:32:59.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9923ms or 198 ticks behind
+[05maj2024 01:32:59.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga moved too quickly! -7.295667329529579,7.5,-0.03334453984560071
+[05maj2024 01:32:59.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThePolishCat_221 moved too quickly! -9.113067194710084,-2.0220247888949814,4.066097968543545
+[05maj2024 01:32:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Set own game mode to Survival Mode]
+[05maj2024 01:33:12.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [Don't Count Your Moas...]
+[05maj2024 01:33:15.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [Basic Tinkering (Tetra)]
+[05maj2024 01:33:16.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [Epic!]
+[05maj2024 01:33:16.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [The Path to Better Gear]
+[05maj2024 01:33:21.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported sleeplessnigga to 113.500000, 63.500000, 35.500000]
+[05maj2024 01:36:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sleeplessnigga: Teleported zenxevyy to sleeplessnigga]
+[05maj2024 01:36:06.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zenxevyy lost connection: Disconnected
+[05maj2024 01:36:06.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zenxevyy left the game
+[05maj2024 01:37:30.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Set own game mode to Creative Mode]
+[05maj2024 01:38:04.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kamykowyy: Teleported Kamykowyy to sleeplessnigga]
+[05maj2024 01:38:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThePolishCat_221: Set own game mode to Survival Mode]
+[05maj2024 01:38:53.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[05maj2024 01:39:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> yo masz ³uk jakiœ
+[05maj2024 01:39:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> skibidzie
+[05maj2024 01:39:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> jest w prawej skrzynce gdzies
+[05maj2024 01:39:19.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamykowyy> nie
+[05maj2024 01:39:21.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> zyjesz?
+[05maj2024 01:39:36.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> ¿aden mój
+[05maj2024 01:39:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> kto ¿yje?
+[05maj2024 01:39:47.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Marriah the Questionable'/47309, l='ServerLevel[world]', x=50.30, y=87.00, z=7.30] died: Marriah the Questionable was slain by sleeplessnigga
+[05maj2024 01:39:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> no ty
+[05maj2024 01:39:57.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> dobra jednak mam
+[05maj2024 01:40:05.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> to mozesz grac ale nie mozesz gadac ye?
+[05maj2024 01:40:16.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> nie bo ten zjeb mi mówi jakieœ perdo³y ¿e pózno
+[05maj2024 01:40:21.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> ej
+[05maj2024 01:40:23.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> nie wyzywaj tak
+[05maj2024 01:40:27.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> to twoj dady
+[05maj2024 01:40:33.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> to co idziemy budowac stacje?
+[05maj2024 01:40:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> w chuju to mam
+[05maj2024 01:40:49.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> stacje czy tate
+[05maj2024 01:41:01.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> wazne pytanie
+[05maj2024 01:41:09.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> ten peda³ mi ka¿e wy³aczaæ "bo mu komputer huczy i pozno jest"
+[05maj2024 01:41:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> czyli grasz ale nie gadasz
+[05maj2024 01:41:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> wypierdalaj z tym ogniem
+[05maj2024 01:41:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamykowyy> ej
+[05maj2024 01:41:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamykowyy> lap
+[05maj2024 01:41:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> srasz ale nie gadasz tak?
+[05maj2024 01:41:49.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamykowyy> refleks
+[05maj2024 01:41:52.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy has made the advancement [Surge Protector]
+[05maj2024 01:41:52.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 has made the advancement [Surge Protector]
+[05maj2024 01:42:01.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> no musze ca³kowicie spierdalaæ bo ten odpad mi jakieœ ultimatum stawia pseudo
+[05maj2024 01:42:10.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> :(
+[05maj2024 01:42:14.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamykowyy> rip
+[05maj2024 01:42:16.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> to jutr sie zrobi
+[05maj2024 01:42:18.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> rest in rip
+[05maj2024 01:42:22.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> w takim razie ja tez bede szedl
+[05maj2024 01:42:43.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
+[05maj2024 01:42:47.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> gada coœ ¿e jest pozno a sam o 1 w nocy przychodzi
+[05maj2024 01:42:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> tylko ze on dostaje za to pieniadze
+[05maj2024 01:43:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> za siedzenie na grilu i ³a¿enie po lesie?
+[05maj2024 01:43:10.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> juz cziluj bombe
+[05maj2024 01:43:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> idziemy na dwor pozniej czy nie
+[05maj2024 01:43:25.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> ni wiem
+[05maj2024 01:43:40.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThePolishCat_221> pinionszkuf nie mam ju¿
+[05maj2024 01:43:44.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> no i co
+[05maj2024 01:43:45.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThePolishCat_221 lost connection: Disconnected
+[05maj2024 01:43:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThePolishCat_221 left the game
+[05maj2024 01:43:47.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> zrobi sie piknik zul style
+[05maj2024 01:43:49.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> kurwo jebana
+[05maj2024 01:43:52.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> ty dziwko pierdolona
+[05maj2024 01:43:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sleeplessnigga> chuj ci w cipsko
+[05maj2024 01:43:55.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sleeplessnigga lost connection: Disconnected
+[05maj2024 01:43:55.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sleeplessnigga left the game
+[05maj2024 01:44:13.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05maj2024 01:44:13.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sya wylaczam serwer<--[HERE]
+[05maj2024 01:44:22.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamykowyy lost connection: Disconnected
+[05maj2024 01:44:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamykowyy left the game
+[05maj2024 01:44:32.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05maj2024 01:44:32.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05maj2024 01:44:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05maj2024 01:44:32.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05maj2024 01:44:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05maj2024 01:44:33.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[05maj2024 01:44:33.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05maj2024 01:44:33.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05maj2024 01:44:33.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05maj2024 01:44:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[05maj2024 01:44:33.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[05maj2024 01:44:33.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05maj2024 01:44:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[05maj2024 01:44:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05maj2024 01:44:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05maj2024 01:44:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05maj2024 01:44:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[05maj2024 01:44:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[05maj2024 01:44:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
